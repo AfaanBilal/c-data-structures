@@ -1,7 +1,7 @@
 Data Structures in C
 ==============
 
-Author: **[Afaan Bilal](https://afaan.me)**  
+Author: **[Afaan Bilal](https://afaan.dev)**  
 
 ## Introduction
 **Data Structures in C** is a collection of C programs that implement various data 
